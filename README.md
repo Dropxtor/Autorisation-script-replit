@@ -16,9 +16,9 @@ Pour accorder des autorisations à un script Replit pour écrire sur GitHub, vou
 ```bash
 import octokit
 ```
--Configurez les autorisations pour votre application Replit-Script :
--Définissez le client_id et le client_secret à l'aide des informations de votre application GitHub créée précédemment.
--Vous pouvez utiliser les paramètres suivants comme exemple, en remplaçant les valeurs par celles que vous avez générées lors de la création de votre application GitHub :
+- Configurez les autorisations pour votre application Replit-Script :
+- Définissez le client_id et le client_secret à l'aide des informations de votre application GitHub créée précédemment.
+- Vous pouvez utiliser les paramètres suivants comme exemple, en remplaçant les valeurs par celles que vous avez générées lors de la création de votre application GitHub :
 
    2-💿
 
